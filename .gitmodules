@@ -1,3 +1,9 @@
 [submodule "bundle/vim-ruby"]
 	path = bundle/vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "bundle/command-t"]
+	path = bundle/command-t
+	url = https://github.com/wincent/command-t.git
+[submodule "bundle/puppet-syntax-vim"]
+	path = bundle/puppet-syntax-vim
+	url = https://github.com/puppetlabs/puppet-syntax-vim.git
